@@ -128,13 +128,11 @@ deactivate
 - La ejecución se realiza en **tiempo real**.
 - El gráfico del uso de memoria cambia de color dinámicamente:
   - 🟢 Verde: < 60%
-  - 🟠 Naranja: 60–80%
-  - 🔴 Rojo: > 80%
- 
   - <img width="1006" height="620" alt="image" src="https://github.com/user-attachments/assets/5136497a-b384-4754-9253-0a9d96a39b69" />
+  - 🟠 Naranja: 60–80%
   - <img width="1011" height="610" alt="image" src="https://github.com/user-attachments/assets/d182ad58-fe19-472c-a74c-e8089ceb30f0" />
-  - <img width="1007" height="608" alt="image" src="https://github.com/user-attachments/assets/f843ae33-26ae-4cb5-b256-9b16be8e27e8" />
-
+  - 🔴 Rojo: > 80%
+  -  <img width="1007" height="608" alt="image" src="https://github.com/user-attachments/assets/f843ae33-26ae-4cb5-b256-9b16be8e27e8" />
 
 
 
