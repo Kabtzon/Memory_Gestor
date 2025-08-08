@@ -1,10 +1,10 @@
-# 🧠 Memory_Gestor
+#  Memory_Gestor
 
 Simulador de gestión de procesos con control de memoria RAM, desarrollado como proyecto de semestre. El sistema muestra en tiempo real el comportamiento de un sistema operativo al manejar múltiples procesos que compiten por espacio en memoria. Incluye una interfaz gráfica moderna, paneles de control e indicadores visuales similares al Administrador de Tareas de Windows.
 
 ---
 
-## 📚 Características
+##  Características
 
 - Simulación realista de ejecución de procesos.
 - Límite de memoria RAM configurable (por defecto: 1024 MB).
@@ -16,7 +16,7 @@ Simulador de gestión de procesos con control de memoria RAM, desarrollado como 
 
 ---
 
-## 🗂️ Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 Memory_Gestor/
@@ -38,7 +38,7 @@ Memory_Gestor/
 
 ---
 
-## ⚙️ Configuración YAML de ejemplo
+##  Configuración YAML de ejemplo
 
 A continuación se muestra un archivo `config.yml` usado para definir la configuración del simulador:
 
@@ -57,12 +57,12 @@ interfaz:
 
 ---
 
-## 💻 Instalación y ejecución en Windows
+##  Instalación y ejecución en Windows
 
-> ✅ **Versión recomendada de Python: [3.13](https://www.python.org/downloads/release/python-3130/)**  
+>  **Versión recomendada de Python: [3.13](https://www.python.org/downloads/release/python-3130/)**  
 > Asegúrate de marcar **"Add Python to PATH"** al instalarlo.
 
-### ⚙️ Pasos para ejecutar el simulador
+###  Pasos para ejecutar el simulador
 
 #### 1. Clona el repositorio
 
@@ -120,7 +120,7 @@ deactivate
 
 ---
 
-## 📈 Comportamiento del simulador
+##  Comportamiento del simulador
 
 - Cada proceso consume entre **10 MB y 200 MB**.
 - La duración de los procesos es entre **1 y 10 segundos**.
@@ -133,7 +133,7 @@ deactivate
 
 ---
 
-## 📬 Autoría
+##  Autoría
 
 Este proyecto fue desarrollado por el **Grupo de Trabajo** como parte del curso de Sistemas Operativos.
 
