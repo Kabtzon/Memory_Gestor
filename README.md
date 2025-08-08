@@ -109,7 +109,7 @@ deactivate
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3.13
 - `customtkinter`
