@@ -130,7 +130,7 @@ deactivate
 - ![Imagen de WhatsApp 2025-08-07 a las 22 56 25_4834e303](https://github.com/user-attachments/assets/9f4bee9e-e4c0-411e-8c7c-3ab35f3406ea)
 
 - La ejecución se realiza en **tiempo real**.
-- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_1afb54fb](https://github.com/user-attachments/assets/391b0770-3426-42cb-a0c1-60cd0a723f8e)
+- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_6e5f37c2](https://github.com/user-attachments/assets/1d497f20-c380-41bd-a460-b3efd7a96aa4)
 
 - El gráfico del uso de memoria cambia de color dinámicamente:
   - 🟢 Verde: < 60%
