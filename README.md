@@ -127,7 +127,7 @@ deactivate
 - ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_f0e29bf3](https://github.com/user-attachments/assets/9a7ddec4-b0d7-474d-81b3-8f24c925ea58)
 
 - Si no hay memoria suficiente, el proceso entra en **cola de espera**.
-- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_a0b62a13](https://github.com/user-attachments/assets/4c6c8cf4-bea9-42a6-b7d7-1d3ffa79cf94)
+- ![Imagen de WhatsApp 2025-08-07 a las 22 56 25_4834e303](https://github.com/user-attachments/assets/9f4bee9e-e4c0-411e-8c7c-3ab35f3406ea)
 
 - La ejecución se realiza en **tiempo real**.
 - ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_1afb54fb](https://github.com/user-attachments/assets/391b0770-3426-42cb-a0c1-60cd0a723f8e)
