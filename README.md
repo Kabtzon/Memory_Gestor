@@ -124,8 +124,14 @@ deactivate
 
 - Cada proceso consume entre **10 MB y 200 MB**.
 - La duración de los procesos es entre **1 y 10 segundos**.
+- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_f0e29bf3](https://github.com/user-attachments/assets/9a7ddec4-b0d7-474d-81b3-8f24c925ea58)
+
 - Si no hay memoria suficiente, el proceso entra en **cola de espera**.
+- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_a0b62a13](https://github.com/user-attachments/assets/4c6c8cf4-bea9-42a6-b7d7-1d3ffa79cf94)
+
 - La ejecución se realiza en **tiempo real**.
+- ![Imagen de WhatsApp 2025-08-07 a las 22 56 24_1afb54fb](https://github.com/user-attachments/assets/391b0770-3426-42cb-a0c1-60cd0a723f8e)
+
 - El gráfico del uso de memoria cambia de color dinámicamente:
   - 🟢 Verde: < 60%
   - <img width="1006" height="620" alt="image" src="https://github.com/user-attachments/assets/5136497a-b384-4754-9253-0a9d96a39b69" />
