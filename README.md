@@ -146,7 +146,11 @@ deactivate
 
 ##  Autoría
 
-Este proyecto fue desarrollado por el **Grupo de Trabajo** como parte del curso de Sistemas Operativos.
+Este proyecto fue desarrollado por el **Grupo de Trabajo No. 4** como parte del curso de Sistemas Operativos.
+- Wendy Carolina Tomás Tubac   1990-23-19391 
+- Kab’tzin Miguel Ángel Velasco Xuc   1990-23-3004 
+- Kevin Josué Gabriel Otzoy   1990-23-4095 
+- Juan José Alemán Vásquez     1990-20-6025
 
 ---
 
